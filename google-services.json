@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "249573038266",
+    "project_id": "tindering-2e263",
+    "storage_bucket": "tindering-2e263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249573038266:android:ba2fd8b4890281fc180a83",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249573038266-sd9ca04uqvmbdoiic69fegbpba62dqjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "129a494a8ac1dd1de7aef7b95c3684521a3c1b68"
+          }
+        },
+        {
+          "client_id": "249573038266-qjcjokngpe7o0iqdnvnrjsra6mhkk8vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBv6XXGw0I7SeIr3gODXnoEzvAMIeNWw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249573038266-qjcjokngpe7o0iqdnvnrjsra6mhkk8vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249573038266-0ap5pr5g3t02ft3evdu0uoq1ho2s3si8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
